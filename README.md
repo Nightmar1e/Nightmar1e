@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Walid</h1>
 <h3 align="center">A passionate Web Developer</h3>
-<img align="right" alt = "coding" width = "400" src = "https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif">
+<img align="right" alt = "coding" width = "400" src = "https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif?format=2500w">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
